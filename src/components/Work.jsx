@@ -58,7 +58,7 @@ const Work = () => {
   </div>
 ))}
     
-    <p className=''>And many More ...</p>
+    <p className='p-8'>And many More ...</p>
 
 </div>
       </div>
