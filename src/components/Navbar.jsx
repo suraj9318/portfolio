@@ -11,7 +11,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo5.png';
 import { Link } from 'react-scroll';
-import pdf from '../assets/CV_New.pdf'
+import pdf from '../assets/Resume_suraj.pdf'
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
