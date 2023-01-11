@@ -3,7 +3,7 @@ import githubUser from '../assets/projects/github-user.png'
 import stockImg from '../assets/projects/stock-img.png'
 import quizApp from '../assets/projects/quiz-app.png'
 import movieDb from '../assets/projects/movies-db.png'
-import SocialMedia from '../assets/projects/desktop.png'
+import SocialMedia from '../assets/projects/mobile.png'
 
 export const data=[
     {
