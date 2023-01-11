@@ -8,35 +8,35 @@ import SocialMedia from '../assets/projects/mobile.png'
 export const data=[
     {
         id:1,
-        name:"React JS Application",
+        name:"E-Commerce",
         image:confySloth,
         github:"https://github.com/suraj9318/comfy-sloth-e-com",
         live:"https://e-comfy-sloth.netlify.app",
     },
     {
         id:2,
-        name:"React JS Application",
+        name:"Github Master",
         image:githubUser,
         github:"https://github.com/suraj9318/search-github-users",
         live:"https://search-github-user-information.netlify.app",
     },
     {
         id:3,
-        name:"React JS Application",
+        name:"Stock Image",
         image:stockImg,
         github:"https://github.com/suraj9318/stock-image",
         live:"https://stock-image.netlify.app",
     },
     {
         id:4,
-        name:"React JS Application",
+        name:"Quiz Application",
         image:quizApp,
         github:"https://github.com/suraj9318/quiz-app",
         live:"https://playquizdaily.netlify.app/",
     },
     {
         id:5,
-        name:"React JS Application",
+        name:"Movie DB",
         image:movieDb,
         github:"https://github.com/suraj9318/movie-db",
         live:"https://moviesbits.netlify.app/",
@@ -44,7 +44,7 @@ export const data=[
 
     {
         id:6,
-        name:"React JS Application",
+        name:"Social media MUI",
         image:SocialMedia,
         github:"https://github.com/suraj9318/social-media",
         live:"https://chatdrop.netlify.app/",
