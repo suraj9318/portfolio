@@ -3,6 +3,7 @@ import githubUser from '../assets/projects/github-user.png'
 import stockImg from '../assets/projects/stock-img.png'
 import quizApp from '../assets/projects/quiz-app.png'
 import movieDb from '../assets/projects/movies-db.png'
+import SocialMedia from '../assets/projects/desktop.png'
 
 export const data=[
     {
@@ -40,6 +41,15 @@ export const data=[
         github:"https://github.com/suraj9318/movie-db",
         live:"https://moviesbits.netlify.app/",
     },
+
+    {
+        id:6,
+        name:"React JS Application",
+        image:SocialMedia,
+        github:"https://github.com/suraj9318/social-media",
+        live:"https://chatdrop.netlify.app/",
+    },
+
 
 
     
