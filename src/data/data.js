@@ -4,8 +4,16 @@ import stockImg from '../assets/projects/stock-img.png'
 import quizApp from '../assets/projects/quiz-app.png'
 import movieDb from '../assets/projects/movies-db.png'
 import SocialMedia from '../assets/projects/mobile.png'
-
+import jobster from '../assets/projects/jobster.png'
 export const data=[
+    {
+        id:7,
+        name:"Job Portal",
+        image:jobster,
+        github:"https://github.com/suraj9318/job-portal",
+        live:"https://rojgaar.netlify.app/landing",
+    },
+
     {
         id:1,
         name:"E-Commerce",
@@ -42,13 +50,6 @@ export const data=[
         live:"https://moviesbits.netlify.app/",
     },
 
-    {
-        id:6,
-        name:"Social media MUI",
-        image:SocialMedia,
-        github:"https://github.com/suraj9318/social-media",
-        live:"https://chatdrop.netlify.app/",
-    },
 
 
 
