@@ -14,7 +14,7 @@ const Home = () => {
           I'm a Front-End Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        I am a enthusiastic front-end developer and have been in the industry for more than 1.4 years. I have a keen eye for detail and most of my working life has been dedicated to creating stunning websites for clients.
+        I am a enthusiastic front-end developer and have been in the industry for more than 1.5+ years. I have a keen eye for detail and most of my working life has been dedicated to creating stunning websites for clients.
         </p>
         <div>
         <Link to='work' smooth={true} duration={500}>

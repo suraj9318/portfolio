@@ -8,7 +8,7 @@ import ReactImg from '../assets/react.png';
 import bootstrap from '../assets/bootstrap-logo.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-
+import material from '../assets/material-ui2.png'
 
 const Skills = () => {
   return (
@@ -50,12 +50,18 @@ const Skills = () => {
                   <p className='my-4'>MONGO DB</p>
               </div> */}
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={bootstrap} alt="HTML icon" />
+                  <p className='my-4'>Bootstrap</p>
+              </div>
+
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
                   <p className='my-4'>TAILWIND</p>
               </div>
+
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={bootstrap} alt="HTML icon" />
-                  <p className='my-4'>Bootstrap</p>
+                  <img className='w-20 mx-auto' src={material} alt="Material UI icon" />
+                  <p className='my-4'>Material UI</p>
               </div>
           </div>
       </div>
